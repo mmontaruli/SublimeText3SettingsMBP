@@ -1,0 +1,25 @@
+{
+	"sublimelinter_executable_map":
+	{
+		"ruby": "/Users/Matt/.rbenv/versions/1.9.3-p194/bin/ruby"
+	},
+	"sublimelinter_notes": true,
+	"user":
+	{
+		"linters":
+		{
+			"javac":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"lint": ""
+			}
+		},
+		"mark_style": "fill"
+	}
+}

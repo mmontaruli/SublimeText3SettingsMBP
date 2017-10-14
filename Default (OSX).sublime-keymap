@@ -1,0 +1,4 @@
+[
+	{"keys": ["f1"], "command": "dired", "args": { "immediate": true }},
+	{"keys": ["super+shift+alt+n"], "command": "normalize_region_ends"}
+]

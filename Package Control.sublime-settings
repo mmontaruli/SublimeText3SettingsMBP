@@ -1,0 +1,44 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CoffeeScript",
+		"Color Highlighter",
+		"CTags",
+		"Cucumber",
+		"DashDoc",
+		"DetectSyntax",
+		"DistractionFreeWindow",
+		"Emmet",
+		"FileBrowser",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Modific",
+		"MultiEditUtils",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		// "Tag",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"ZenCoding"
+	]
+}
