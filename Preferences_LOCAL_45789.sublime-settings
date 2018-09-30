@@ -49,9 +49,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Clipboard History",
-		"CoffeeScript",
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"Tag",
+		"Vintage"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
@@ -66,5 +66,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"ignored_packages": []
 }

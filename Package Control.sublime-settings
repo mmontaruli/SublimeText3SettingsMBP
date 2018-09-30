@@ -3,6 +3,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Clipboard History",
+		"CoffeeScript"
 	],
 	"installed_packages":
 	[
@@ -17,7 +19,6 @@
 		"CTags",
 		"Cucumber",
 		"DashDoc",
-		"DetectSyntax",
 		"DistractionFreeWindow",
 		"Emmet",
 		"FileBrowser",
@@ -38,7 +39,6 @@
 		"SublimeREPL",
 		"Terminal",
 		"Theme - Soda",
-		"Theme - Spacegray",
-		"ZenCoding"
+		"Theme - Spacegray"
 	]
 }
