@@ -7,3 +7,4 @@ Package Control.cache/
 Package Control.ca-certs/
 bh_unicode_properties.cache
 oscrypto-ca-bundle.crt
+*.merged-ca-bundle
